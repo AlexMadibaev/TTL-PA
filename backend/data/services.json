@@ -1,0 +1,17 @@
+
+[
+    {
+        "id": 1,
+        "serviceName": "Internet",
+        "status": "Active",
+        "description": "High-speed internet connection",
+        "price": 500
+    },
+    {
+        "id": 2,
+        "serviceName": "Mobile",
+        "status": "Inactive",
+        "description": "Unlimited calls and SMS",
+        "price": 300
+    }
+]
